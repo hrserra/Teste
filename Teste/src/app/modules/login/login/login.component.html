@@ -1,0 +1,13 @@
+<mat-card class="login-box">
+  <mat-card-content>
+    <mat-form-field>
+      <input matInput placeholder="E-mail" [(ngModel)]="user.email" required>
+    </mat-form-field>
+    <br>
+    <mat-form-field>
+      <input matInput placeholder="Senha" type="password" [(ngModel)]="user.password" required>
+    </mat-form-field>
+    <br>
+    <button mat-raised-button color="primary" (click)="btnLogin_Click()">Login</button>
+  </mat-card-content>
+</mat-card>

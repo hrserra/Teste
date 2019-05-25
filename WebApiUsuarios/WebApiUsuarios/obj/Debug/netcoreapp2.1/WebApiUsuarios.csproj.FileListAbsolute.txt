@@ -1,0 +1,14 @@
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.deps.json
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.runtimeconfig.json
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.runtimeconfig.dev.json
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.dll
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.1\WebApiUsuarios.pdb
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorAssemblyInfo.cache
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorAssemblyInfo.cs
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.AssemblyInfoInputs.cache
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.AssemblyInfo.cs
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.RazorTargetAssemblyInfo.cache
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.dll
+C:\Users\Heber\Desktop\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.1\WebApiUsuarios.pdb

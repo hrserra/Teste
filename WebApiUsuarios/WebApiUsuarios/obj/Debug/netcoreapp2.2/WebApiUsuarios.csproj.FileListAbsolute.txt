@@ -1,0 +1,14 @@
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.2\WebApiUsuarios.deps.json
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.2\WebApiUsuarios.runtimeconfig.json
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.2\WebApiUsuarios.runtimeconfig.dev.json
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.2\WebApiUsuarios.dll
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\bin\Debug\netcoreapp2.2\WebApiUsuarios.pdb
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.csprojAssemblyReference.cache
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.csproj.CoreCompileInputs.cache
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.RazorAssemblyInfo.cache
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.RazorAssemblyInfo.cs
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.AssemblyInfoInputs.cache
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.AssemblyInfo.cs
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.RazorTargetAssemblyInfo.cache
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.dll
+c:\cshp_mar_2019\WebApiUsuarios\WebApiUsuarios\obj\Debug\netcoreapp2.2\WebApiUsuarios.pdb
